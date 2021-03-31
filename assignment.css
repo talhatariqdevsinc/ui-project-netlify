@@ -105,7 +105,7 @@
 
 .slider {
   position: relative;
-	background-image: url('file:///home/dev/Office/ui-project-netlify/images/slider-image-1.png');
+	background-image: url('images/slider-image-1.png');
   height:75vh;
 	background-size: cover;
   background-size: 100%;
